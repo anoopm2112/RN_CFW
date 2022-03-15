@@ -1,0 +1,1284 @@
+{
+    "statutory_bodies_for_child_protection": {
+        "options": [
+            {
+                "cps_id": 1,
+                "label": {
+                    "en_IN": "Child Welfare Committee",
+                    "ml_IN": "ശിശുക്ഷേമ സമിതി"
+                },
+                "desc": {
+                    "en_IN": "The committee has the same powers as a metropolitan magistrate. Purpose of the committee is to determine the best interest of a child and find the child a safe home and environment either with his/her original parents, adoptive parents, foster care or an institution.",
+                    "ml_IN": "ഒരു മെട്രോപൊളിറ്റൻ മജിസ്‌ട്രേറ്റിന് തുല്യമായ അധികാരം കമ്മിറ്റിക്കും ഉണ്ട്. കമ്മിറ്റിയുടെ ഉദ്ദേശം ഒരു കുട്ടിയുടെ ഏറ്റവും മികച്ച താൽപ്പര്യം നിർണ്ണയിക്കുകയും കുട്ടിക്ക് അവന്റെ/അവളുടെ യഥാർത്ഥ മാതാപിതാക്കൾ, ദത്തെടുക്കുന്ന മാതാപിതാക്കൾ, വളർത്തു പരിപാലനം അല്ലെങ്കിൽ സ്ഥാപനം എന്നിവയ്‌ക്കൊപ്പം സുരക്ഷിതമായ വീടും അന്തരീക്ഷവും കണ്ടെത്തുകയും ചെയ്യുക എന്നതാണ്."
+                },
+                "icon": "child_welfare",
+                "address": {
+                    "en_IN": "Government office Thrissur, Kerala · 0487 233 7794",
+                    "ml_IN": "സർക്കാർ ഓഫീസ് തൃശൂർ, കേരളം · 0487 233 7794"
+                }
+            },
+            {
+                "cps_id": 2,
+                "label": {
+                    "en_IN": "Juvenile Justice Board ",
+                    "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് ബോർഡ്"
+                },
+                "desc": {
+                    "en_IN": "Juvenile Justice Board are presented with juveniles accused or detained for a crime. The board is responsible for deciding the best course of action for the rehabilitation of the child. The child is typically brought before the board by a police officer or a person from the special juvenile police unit.",
+                    "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് ബോർഡ് പ്രായപൂർത്തിയാകാത്തവരെ പ്രതിയാക്കുകയോ കുറ്റകൃത്യത്തിന് തടവിലാക്കുകയോ ചെയ്യുന്നു. കുട്ടിയുടെ പുനരധിവാസത്തിനുള്ള ഏറ്റവും നല്ല നടപടി തീരുമാനിക്കാനുള്ള ഉത്തരവാദിത്തം ബോർഡിനാണ്. ഒരു പോലീസ് ഉദ്യോഗസ്ഥനോ സ്‌പെഷ്യൽ ജുവനൈൽ പോലീസ് യൂണിറ്റിലെ ഒരു വ്യക്തിയോ ആണ് കുട്ടിയെ സാധാരണയായി ബോർഡിന് മുന്നിൽ കൊണ്ടുവരുന്നത്."
+                },
+                "icon": "cps_juvenile",
+                "address": {
+                    "en_IN": "Government office Thrissur, Kerala · 0487 233 7794",
+                    "ml_IN": "സർക്കാർ ഓഫീസ് തൃശൂർ, കേരളം · 0487 233 7794"
+                }
+            },
+            {
+                "cps_id": 3,
+                "label": {
+                    "en_IN": "Special Juvenile Police Units (SJPU)",
+                    "ml_IN": "പ്രത്യേക ജുവനൈൽ പോലീസ് യൂണിറ്റുകൾ (SJPU)"
+                },
+                "desc": {
+                    "en_IN": "As per Juvenile Justice Act 2015, Special Juvenile Police Units (SJPU) is to be set up in every districts and city to co- ordinate and upgrade the police interface with children. All the police officer, designated as child welfare officers (now known as Child Welfare Police officers) in the district/city are members of SJPU.",
+                    "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് ആക്ട് 2015 പ്രകാരം, കുട്ടികളുമായി പോലീസ് ഇന്റർഫേസ് ഏകോപിപ്പിക്കുന്നതിനും നവീകരിക്കുന്നതിനുമായി എല്ലാ ജില്ലകളിലും നഗരങ്ങളിലും പ്രത്യേക ജുവനൈൽ പോലീസ് യൂണിറ്റുകൾ (എസ്ജെപിയു) സ്ഥാപിക്കും. ജില്ല/നഗരത്തിൽ ശിശുക്ഷേമ ഓഫീസർമാരായി (ഇപ്പോൾ ചൈൽഡ് വെൽഫെയർ പോലീസ് ഓഫീസർമാർ എന്നറിയപ്പെടുന്നു) നിയുക്തരായ എല്ലാ പോലീസ് ഓഫീസർമാരും SJPU-യിലെ അംഗങ്ങളാണ്."
+                },
+                "icon": "special_juvenile",
+                "address": {
+                    "en_IN": "Government office Thrissur, Kerala · 0487 233 7794",
+                    "ml_IN": "സർക്കാർ ഓഫീസ് തൃശൂർ, കേരളം · 0487 233 7794"
+                }
+            }
+        ]
+    },
+    "district_child_protection_unit": {
+        "options": [
+            {
+                "cps_id": 1,
+                "label": {
+                    "en_IN": "District Child Protection Unit",
+                    "ml_IN": "ജില്ലാ ശിശു സംരക്ഷണ യൂണിറ്റ്"
+                },
+                "desc": {
+                    "en_IN": "District Child Protection Unit (DCPU) in each district is the fundamental unit for the implementation of Integrated Child Protection Scheme (ICPS). DCPU shall coordinate and implement all child rights and protection activities at district level",
+                    "ml_IN": "സംയോജിത ചൈൽഡ് പ്രൊട്ടക്ഷൻ സ്കീം (ഐസിപിഎസ്) നടപ്പിലാക്കുന്നതിനുള്ള അടിസ്ഥാന യൂണിറ്റാണ് ഓരോ ജില്ലയിലെയും ജില്ലാ ശിശു സംരക്ഷണ യൂണിറ്റ് (ഡിസിപിയു). ഡിസിപിയു ജില്ലാതലത്തിൽ എല്ലാ ബാലാവകാശ സംരക്ഷണ പ്രവർത്തനങ്ങളും ഏകോപിപ്പിക്കുകയും നടപ്പിലാക്കുകയും ചെയ്യും"
+                },
+                "icon": "district_child",
+                "address": {
+                    "en_IN": "Government office Thrissur, Kerala · 0487 233 7794",
+                    "ml_IN": "സർക്കാർ ഓഫീസ് തൃശൂർ, കേരളം · 0487 233 7794"
+                }
+            }
+        ]
+    },
+    "service_mechanism": {
+        "options": [
+            {
+                "cps_id": 4,
+                "label": {
+                    "en_IN": "District Child Protection Unit",
+                    "ml_IN": "ജില്ലാ ശിശു സംരക്ഷണ യൂണിറ്റ്"
+                },
+                "desc": {
+                    "en_IN": "District Child Protection Unit (DCPU) in each district is the fundamental unit for the implementation of Integrated Child Protection Scheme (ICPS). DCPU shall coordinate and implement all child rights and protection activities at district level",
+                    "ml_IN": "സംയോജിത ചൈൽഡ് പ്രൊട്ടക്ഷൻ സ്കീം (ഐസിപിഎസ്) നടപ്പിലാക്കുന്നതിനുള്ള അടിസ്ഥാന യൂണിറ്റാണ് ഓരോ ജില്ലയിലെയും ജില്ലാ ശിശു സംരക്ഷണ യൂണിറ്റ് (ഡിസിപിയു). ഡിസിപിയു ജില്ലാതലത്തിൽ എല്ലാ ബാലാവകാശ സംരക്ഷണ പ്രവർത്തനങ്ങളും ഏകോപിപ്പിക്കുകയും നടപ്പിലാക്കുകയും ചെയ്യും"
+                },
+                "icon": "district_child",
+                "address": {
+                    "en_IN": "Government office Thrissur, Kerala · 0487 233 7794",
+                    "ml_IN": "സർക്കാർ ഓഫീസ് തൃശൂർ, കേരളം · 0487 233 7794"
+                }
+            },
+            {
+                "cps_id": 5,
+                "label": {
+                    "en_IN": "Parenting clinics",
+                    "ml_IN": "രക്ഷാകർതൃ ക്ലിനിക്കുകൾ"
+                },
+                "desc": {
+                    "en_IN": "Counselling centers for parents to give positive guidance and support to parents on parenting and psychosocial support to",
+                    "ml_IN": "രക്ഷിതാക്കൾക്ക് രക്ഷാകർതൃത്വത്തിലും മാനസിക സാമൂഹിക പിന്തുണയിലും രക്ഷിതാക്കൾക്ക് നല്ല മാർഗനിർദേശവും പിന്തുണയും നൽകാൻ മാതാപിതാക്കൾക്കുള്ള കൗൺസിലിംഗ് കേന്ദ്രങ്ങൾ"
+                },
+                "icon": "parenting_clinic",
+                "address": {
+                    "en_IN": "Government office Thrissur, Kerala · 0487 233 7794",
+                    "ml_IN": "സർക്കാർ ഓഫീസ് തൃശൂർ, കേരളം · 0487 233 7794"
+                }
+            },
+            {
+                "cps_id": 6,
+                "label": {
+                    "en_IN": "District Resource Centres",
+                    "ml_IN": "ജില്ലാ റിസോഴ്സ് സെന്ററുകൾ"
+                },
+                "desc": {
+                    "en_IN": "District Resource Centers are child-friendly centres that provides different services to children including personal interventions, referral, trainings and expert services",
+                    "ml_IN": "ജില്ലാ റിസോഴ്സ് വ്യക്തിഗത ഇടപെടലുകൾ, റഫറൽ, പരിശീലനങ്ങൾ, വിദഗ്ധ സേവനങ്ങൾ എന്നിവ ഉൾപ്പെടെ കുട്ടികൾക്ക് വ്യത്യസ്ത സേവനങ്ങൾ നൽകുന്ന ശിശുസൗഹൃദ കേന്ദ്രങ്ങളാണ് കേന്ദ്രങ്ങൾ."
+                },
+                "icon": "district_resource",
+                "address": {
+                    "en_IN": "Government office Thrissur, Kerala · 0487 233 7794",
+                    "ml_IN": "സർക്കാർ ഓഫീസ് തൃശൂർ, കേരളം · 0487 233 7794"
+                }
+            }
+        ]
+    },
+    "child_care_institution": {
+        "options": [
+            {
+                "cps_id": 7,
+                "label": {
+                    "en_IN": "Children's Home (CH)",
+                    "ml_IN": "കുട്ടികളുടെ വീട് (CH)"
+                },
+                "desc": {
+                    "en_IN": "For the placement of children in need of care and protection for their care, treatment, education, training, development and rehabilitation",
+                    "ml_IN": "പരിചരണവും സംരക്ഷണവും ആവശ്യമുള്ള കുട്ടികളെ അവരുടെ പരിചരണം, ചികിത്സ, വിദ്യാഭ്യാസം, പരിശീലനം, വികസനം, പുനരധിവാസം എന്നിവയ്ക്കായി സ്ഥാപിക്കുന്നതിന്"
+                },
+                "icon": "child_home"
+            },
+            {
+                "cps_id": 8,
+                "label": {
+                    "en_IN": "Observation home (OH)",
+                    "ml_IN": "ഒബ്സർവേഷൻ ഹോം (OH)"
+                },
+                "desc": {
+                    "en_IN": "For temporary reception, care and rehabilitation of any child alleged to be in conflict with law, during the pendency of any inquiry under this Act",
+                    "ml_IN": "ഈ നിയമത്തിന് കീഴിലുള്ള ഏതെങ്കിലും അന്വേഷണത്തിന്റെ തീർപ്പുകൽപ്പിക്കുമ്പോൾ, നിയമവുമായി വൈരുദ്ധ്യമുള്ളതായി ആരോപിക്കപ്പെടുന്ന ഏതൊരു കുട്ടിയുടെയും താൽക്കാലിക സ്വീകരണത്തിനും പരിചരണത്തിനും പുനരധിവാസത്തിനും"
+                },
+                "icon": "observation_home"
+            },
+            {
+                "cps_id": 9,
+                "label": {
+                    "en_IN": "Open Shelter (OS)",
+                    "ml_IN": "ഓപ്പൺ ഷെൽട്ടർ (OS)"
+                },
+                "desc": {
+                    "en_IN": "Community-based facility for children in need of residential support, on short term basis, with the objective of protecting them from abuse or weaning them, or keeping them, away from a life on the streets",
+                    "ml_IN": "പാർപ്പിട പിന്തുണ ആവശ്യമുള്ള കുട്ടികൾക്കായി, ഹ്രസ്വകാല അടിസ്ഥാനത്തിൽ, അവരെ ദുരുപയോഗത്തിൽ നിന്ന് സംരക്ഷിക്കുകയോ മുലകുടി മാറ്റുകയോ തെരുവിലെ ജീവിതത്തിൽ നിന്ന് അകറ്റി നിർത്തുകയോ ചെയ്യുക എന്ന ലക്ഷ്യത്തോടെ കമ്മ്യൂണിറ്റി അടിസ്ഥാനത്തിലുള്ള സൗകര്യം"
+                },
+                "icon": "open_shelter"
+            },
+            {
+                "cps_id": 10,
+                "label": {
+                    "en_IN": "Place of Safety (PoS)",
+                    "ml_IN": "സുരക്ഷാ സ്ഥലം (PoS)"
+                },
+                "desc": {
+                    "en_IN": "Place or institution, not being a police lockup or jail, established separately or attached to an observation home or a special home",
+                    "ml_IN": "സ്ഥലം അല്ലെങ്കിൽ സ്ഥാപനം, ഒരു പോലീസ് ലോക്കപ്പോ ജയിലോ അല്ല, പ്രത്യേകം സ്ഥാപിക്കുകയോ നിരീക്ഷണ കേന്ദ്രത്തിലോ പ്രത്യേക ഭവനത്തിലോ സ്ഥാപിക്കുകയോ ചെയ്യുന്നു"
+                },
+                "icon": "place_safety"
+            },
+            {
+                "cps_id": 11,
+                "label": {
+                    "en_IN": "Special Home (SH)",
+                    "ml_IN": "പ്രത്യേക ഹോം (SH)"
+                },
+                "desc": {
+                    "en_IN": "For housing and providing rehabilitative services to children in conflict with law",
+                    "ml_IN": "നിയമവുമായി വൈരുദ്ധ്യമുള്ള കുട്ടികൾക്ക് ഭവന നിർമ്മാണത്തിനും പുനരധിവാസ സേവനങ്ങൾ നൽകുന്നതിനും"
+                },
+                "icon": "special_home"
+            },
+            {
+                "cps_id": 12,
+                "label": {
+                    "en_IN": "Specialised Adoption Agency (SAA)",
+                    "ml_IN": "പ്രത്യേക ദത്തെടുക്കൽ ഏജൻസി (SAA)"
+                },
+                "desc": {
+                    "en_IN": "For housing orphans, abandoned and surrendered children",
+                    "ml_IN": "അനാഥർക്കും ഉപേക്ഷിക്കപ്പെട്ടവർക്കും കീഴടങ്ങിയ കുട്ടികൾക്കും പാർപ്പിടം"
+                },
+                "icon": "saa"
+            }
+        ]
+    },
+    "address": {
+        "options": [
+            {
+                "district_id": 1,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Trivandrum",
+                            "ml_IN": "ശിശുക്ഷേമം തിരുവനന്തപുരം"
+                        },
+                        "phoneNumber": "8281899460",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Trivandrum",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് തിരുവനന്തപുരം"
+                        },
+                        "phoneNumber": "8281899460",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Trivandrum",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് തിരുവനന്തപുരം"
+                        },
+                        "phoneNumber": "8281899460",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Trivandrum",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് തിരുവനന്തപുരം"
+                        },
+                        "phoneNumber": "8281899460",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Trivandrum",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് തിരുവനന്തപുരം"
+                        },
+                        "phoneNumber": "8281899460",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Trivandrum",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് തിരുവനന്തപുരം"
+                        },
+                        "phoneNumber": "8281899460",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 2,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Kannur",
+                            "ml_IN": "ശിശുക്ഷേമം കണ്ണൂർ"
+                        },
+                        "phoneNumber": "8281899472",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Kannur",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് കണ്ണൂർ"
+                        },
+                        "phoneNumber": "8281899472",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Kannur",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് കണ്ണൂർ"
+                        },
+                        "phoneNumber": "8281899472",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Kannur",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് കണ്ണൂർ"
+                        },
+                        "phoneNumber": "8281899472",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Kannur",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് കണ്ണൂർ"
+                        },
+                        "phoneNumber": "8281899472",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Kannur",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് കണ്ണൂർ"
+                        },
+                        "phoneNumber": "8281899472",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 3,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Malappuram",
+                            "ml_IN": "ശിശുക്ഷേമം മലപ്പുറം"
+                        },
+                        "phoneNumber": "8281899469",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Malappuram",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് മലപ്പുറം"
+                        },
+                        "phoneNumber": "8281899469",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Malappuram",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് മലപ്പുറം"
+                        },
+                        "phoneNumber": "8281899469",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Malappuram",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് മലപ്പുറം"
+                        },
+                        "phoneNumber": "8281899469",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Malappuram",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് മലപ്പുറം"
+                        },
+                        "phoneNumber": "8281899469",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Malappuram",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് മലപ്പുറം"
+                        },
+                        "phoneNumber": "8281899469",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 4,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Kollam",
+                            "ml_IN": "ശിശുക്ഷേമം കൊല്ലം"
+                        },
+                        "phoneNumber": "8281899461",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Kollam",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് കൊല്ലം"
+                        },
+                        "phoneNumber": "8281899461",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Kollam",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് കൊല്ലം"
+                        },
+                        "phoneNumber": "8281899461",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Kollam",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് കൊല്ലം"
+                        },
+                        "phoneNumber": "8281899461",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Kollam",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് കൊല്ലം"
+                        },
+                        "phoneNumber": "8281899461",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Kollam",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് കൊല്ലം"
+                        },
+                        "phoneNumber": "8281899461",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 5,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Pathanamthitta",
+                            "ml_IN": "ശിശുക്ഷേമം പത്തനംതിട്ട"
+                        },
+                        "phoneNumber": "8281899462",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Pathanamthitta",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് പത്തനംതിട്ട"
+                        },
+                        "phoneNumber": "8281899462",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Pathanamthitta",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് പത്തനംതിട്ട"
+                        },
+                        "phoneNumber": "8281899462",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Pathanamthitta",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് പത്തനംതിട്ട"
+                        },
+                        "phoneNumber": "8281899462",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Pathanamthitta",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് പത്തനംതിട്ട"
+                        },
+                        "phoneNumber": "8281899462",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Pathanamthitta",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് പത്തനംതിട്ട"
+                        },
+                        "phoneNumber": "8281899462",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 6,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Alappuzha",
+                            "ml_IN": "ശിശുക്ഷേമം ആലപ്പുഴ"
+                        },
+                        "phoneNumber": "8281899463",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Alappuzha",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് ആലപ്പുഴ"
+                        },
+                        "phoneNumber": "8281899463",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Alappuzha",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് ആലപ്പുഴ"
+                        },
+                        "phoneNumber": "8281899463",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Alappuzha",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് ആലപ്പുഴ"
+                        },
+                        "phoneNumber": "8281899463",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Alappuzha",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് ആലപ്പുഴ"
+                        },
+                        "phoneNumber": "8281899463",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Alappuzha",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് ആലപ്പുഴ"
+                        },
+                        "phoneNumber": "8281899463",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 7,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Kottayam",
+                            "ml_IN": "ശിശുക്ഷേമം കോട്ടയം"
+                        },
+                        "phoneNumber": "8281899464",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Kottayam",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് കോട്ടയം"
+                        },
+                        "phoneNumber": "8281899464",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Kottayam",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് കോട്ടയം"
+                        },
+                        "phoneNumber": "8281899464",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Kottayam",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് കോട്ടയം"
+                        },
+                        "phoneNumber": "8281899464",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Kottayam",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് കോട്ടയം"
+                        },
+                        "phoneNumber": "8281899464",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Kottayam",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് കോട്ടയം"
+                        },
+                        "phoneNumber": "8281899464",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 8,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Idukki",
+                            "ml_IN": "ശിശുക്ഷേമം ഇടുക്കി"
+                        },
+                        "phoneNumber": "1111",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Idukki",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് ഇടുക്കി"
+                        },
+                        "phoneNumber": "8281899465",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Idukki",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് ഇടുക്കി"
+                        },
+                        "phoneNumber": "8281899465",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Idukki",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് ഇടുക്കി"
+                        },
+                        "phoneNumber": "8281899465",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Idukki",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് ഇടുക്കി"
+                        },
+                        "phoneNumber": "8281899465",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Idukki",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് ഇടുക്കി"
+                        },
+                        "phoneNumber": "8281899465",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 9,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Ernakulam",
+                            "ml_IN": "ശിശുക്ഷേമം എറണാകുളം"
+                        },
+                        "phoneNumber": "8281899466",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Ernakulam",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് എറണാകുളം"
+                        },
+                        "phoneNumber": "8281899466",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Ernakulam",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് എറണാകുളം"
+                        },
+                        "phoneNumber": "8281899466",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Ernakulam",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് എറണാകുളം"
+                        },
+                        "phoneNumber": "8281899466",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Ernakulam",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് എറണാകുളം"
+                        },
+                        "phoneNumber": "8281899466",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Ernakulam",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് എറണാകുളം"
+                        },
+                        "phoneNumber": "8281899466",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 10,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Thrissur",
+                            "ml_IN": "ശിശുക്ഷേമം തൃശൂർ"
+                        },
+                        "phoneNumber": "8281899467",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Thrissur",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് തൃശൂർ"
+                        },
+                        "phoneNumber": "8281899467",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Thrissur",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് തൃശൂർ"
+                        },
+                        "phoneNumber": "8281899467",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Thrissur",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് തൃശൂർ"
+                        },
+                        "phoneNumber": "8281899467",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Thrissur",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് തൃശൂർ"
+                        },
+                        "phoneNumber": "8281899467",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Thrissur",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് തൃശൂർ"
+                        },
+                        "phoneNumber": "8281899467",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 11,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Palakkad",
+                            "ml_IN": "ശിശുക്ഷേമം പാലക്കാട്"
+                        },
+                        "phoneNumber": "8281899468",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Palakkad",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് പാലക്കാട്"
+                        },
+                        "phoneNumber": "8281899468",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Palakkad",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് പാലക്കാട്"
+                        },
+                        "phoneNumber": "8281899468",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Palakkad",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് പാലക്കാട്"
+                        },
+                        "phoneNumber": "8281899468",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Palakkad",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് പാലക്കാട്"
+                        },
+                        "phoneNumber": "8281899468",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Palakkad",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് പാലക്കാട്"
+                        },
+                        "phoneNumber": "8281899468",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 12,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Kozhikode",
+                            "ml_IN": "ശിശുക്ഷേമം കോഴിക്കോട്"
+                        },
+                        "phoneNumber": "8281899470",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Kozhikode",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് കോഴിക്കോട്"
+                        },
+                        "phoneNumber": "8281899470",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Kozhikode",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് കോഴിക്കോട്"
+                        },
+                        "phoneNumber": "8281899470",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Kozhikode",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് കോഴിക്കോട്"
+                        },
+                        "phoneNumber": "8281899470",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Kozhikode",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് കോഴിക്കോട്"
+                        },
+                        "phoneNumber": "8281899470",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Kozhikode",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് കോഴിക്കോട്"
+                        },
+                        "phoneNumber": "8281899470",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 13,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Wayanad",
+                            "ml_IN": "ശിശുക്ഷേമം വയനാട്"
+                        },
+                        "phoneNumber": "8281899471",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Wayanad",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് വയനാട്"
+                        },
+                        "phoneNumber": "8281899471",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Wayanad",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് വയനാട്"
+                        },
+                        "phoneNumber": "8281899471",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Wayanad",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് വയനാട്"
+                        },
+                        "phoneNumber": "8281899471",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Wayanad",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് വയനാട്"
+                        },
+                        "phoneNumber": "8281899471",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Wayanad",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് വയനാട്"
+                        },
+                        "phoneNumber": "8281899471",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            },
+            {
+                "district_id": 14,
+                "category": [
+                    {
+                        "cat_id": 1,
+                        "address": {
+                            "en_IN": "Child Welfare Kasaragode",
+                            "ml_IN": "ശിശുക്ഷേമം കാസർഗോഡ്"
+                        },
+                        "phoneNumber": "1111",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 2,
+                        "address": {
+                            "en_IN": "Juvenile Justice Kasaragode",
+                            "ml_IN": "ജുവനൈൽ ജസ്റ്റിസ് കാസർഗോഡ്"
+                        },
+                        "phoneNumber": "8281899473",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 3,
+                        "address": {
+                            "en_IN": "Special Juvenild Kasaragode",
+                            "ml_IN": "സ്പെഷ്യൽ ജുവനൈൽഡ് കാസർഗോഡ്"
+                        },
+                        "phoneNumber": "8281899473",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 4,
+                        "address": {
+                            "en_IN": "District Child Kasaragode",
+                            "ml_IN": "ജില്ലാ ചൈൽഡ് കാസർഗോഡ്"
+                        },
+                        "phoneNumber": "8281899473",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 5,
+                        "address": {
+                            "en_IN": "Parenting Clinic Kasaragode",
+                            "ml_IN": "പാരന്റിംഗ് ക്ലിനിക് കാസർഗോഡ്"
+                        },
+                        "phoneNumber": "8281899473",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    },
+                    {
+                        "cat_id": 6,
+                        "address": {
+                            "en_IN": "District Resource Kasaragode",
+                            "ml_IN": "ജില്ലാ റിസോഴ്സ് കാസർഗോഡ്"
+                        },
+                        "phoneNumber": "8281899473",
+                        "location": {
+                            "latitude": "9.120616",
+                            "longitude": "76.851756"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

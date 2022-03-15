@@ -1,0 +1,354 @@
+{
+    "options": [
+        {
+            "district_id": 1,
+            "phoneNumber": [
+                {
+                    "number": "1001",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2001",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3001",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4001",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 2,
+            "phoneNumber": [
+                {
+                    "number": "1002",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2002",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3002",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4002",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 3,
+            "phoneNumber": [
+                {
+                    "number": "1003",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2003",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3003",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4003",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 4,
+            "phoneNumber": [
+                {
+                    "number": "1004",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2004",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3004",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4004",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 5,
+            "phoneNumber": [
+                {
+                    "number": "1005",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2005",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3005",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4005",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 6,
+            "phoneNumber": [
+                {
+                    "number": "1006",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2006",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3006",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4006",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 7,
+            "phoneNumber": [
+                {
+                    "number": "1007",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2007",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3007",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4007",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 8,
+            "phoneNumber": [
+                {
+                    "number": "1008",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2008",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3008",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4008",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 9,
+            "phoneNumber": [
+                {
+                    "number": "1009",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2009",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3009",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4009",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 10,
+            "phoneNumber": [
+                {
+                    "number": "1010",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2010",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3010",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4010",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 11,
+            "phoneNumber": [
+                {
+                    "number": "1011",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2011",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3011",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4011",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 12,
+            "phoneNumber": [
+                {
+                    "number": "1012",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2012",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3012",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4012",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 13,
+            "phoneNumber": [
+                {
+                    "number": "1013",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2013",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3013",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4013",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        },
+        {
+            "district_id": 14,
+            "phoneNumber": [
+                {
+                    "number": "1014",
+                    "icon": "police",
+                    "title": "police"
+                },
+                {
+                    "number": "2014",
+                    "icon": "legal-office",
+                    "title": "legal_office"
+                },
+                {
+                    "number": "3014",
+                    "icon": "labour-office",
+                    "title": "labour_office"
+                },
+                {
+                    "number": "4014",
+                    "icon": "parent",
+                    "title": "parent_clinic"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "district": {
+        "options": [
+            {
+                "district_id": 1,
+                "label": {
+                    "en_IN": "Trivandrum",
+                    "ml_IN": "തിരുവനന്തപുരം"
+                }
+            },
+            {
+                "district_id": 2,
+                "label": {
+                    "en_IN": "Kannur",
+                    "ml_IN": "കണ്ണൂർ"
+                }
+            },
+            {
+                "district_id": 3,
+                "label": {
+                    "en_IN": "Malappuram",
+                    "ml_IN": "മലപ്പുറം"
+                }
+            },
+            {
+                "district_id": 4,
+                "label": {
+                    "en_IN": "Kollam",
+                    "ml_IN": "കൊല്ലം"
+                }
+            },
+            {
+                "district_id": 5,
+                "label": {
+                    "en_IN": "Pathanamthitta",
+                    "ml_IN": "പത്തനംതിട്ട"
+                }
+            },
+            {
+                "district_id": 6,
+                "label": {
+                    "en_IN": "Alappuzha",
+                    "ml_IN": "ആലപ്പുഴ"
+                }
+            },
+            {
+                "district_id": 7,
+                "label": {
+                    "en_IN": "Kottayam",
+                    "ml_IN": "കോട്ടയം"
+                }
+            },
+            {
+                "district_id": 8,
+                "label": {
+                    "en_IN": "Idukki",
+                    "ml_IN": "ഇടുക്കി"
+                }
+            },
+            {
+                "district_id": 9,
+                "label": {
+                    "en_IN": "Ernakulam",
+                    "ml_IN": "എറണാകുളം"
+                }
+            },
+            {
+                "district_id": 10,
+                "label": {
+                    "en_IN": "Thrissur",
+                    "ml_IN": "തൃശൂർ"
+                }
+            },
+            {
+                "district_id": 11,
+                "label": {
+                    "en_IN": "Palakkad",
+                    "ml_IN": "പാലക്കാട്"
+                }
+            },
+            {
+                "district_id": 12,
+                "label": {
+                    "en_IN": "Kozhikode",
+                    "ml_IN": "കോഴിക്കോട്"
+                }
+            },
+            {
+                "district_id": 13,
+                "label": {
+                    "en_IN": "Wayanad",
+                    "ml_IN": "വയനാട്"
+                }
+            },
+            {
+                "district_id": 14,
+                "label": {
+                    "en_IN": "Kasaragode",
+                    "ml_IN": "കാസർഗോഡ്"
+                }
+            }
+        ]
+    },
+    "class": {
+        "options": [
+            {
+                "class_id": 1,
+                "label": {
+                    "en_IN": "Preschool",
+                    "ml_IN": "പ്രീസ്കൂൾ"
+                }
+            },
+            {
+                "class_id": 2,
+                "label": {
+                    "en_IN": "LKG",
+                    "ml_IN": "എൽ.കെ.ജി"
+                }
+            },
+            {
+                "class_id": 3,
+                "label": {
+                    "en_IN": "UKG",
+                    "ml_IN": "യു.കെ.ജി"
+                }
+            },
+            {
+                "class_id": 4,
+                "label": {
+                    "en_IN": "1st",
+                    "ml_IN": "ഒന്ന് "
+                }
+            },
+            {
+                "class_id": 5,
+                "label": {
+                    "en_IN": "2nd",
+                    "ml_IN": "രണ്ട്"
+                }
+            },
+            {
+                "class_id": 6,
+                "label": {
+                    "en_IN": "3rd",
+                    "ml_IN": "മൂന്ന്"
+                }
+            },
+            {
+                "class_id": 7,
+                "label": {
+                    "en_IN": "4th",
+                    "ml_IN": "നാല്"
+                }
+            },
+            {
+                "class_id": 8,
+                "label": {
+                    "en_IN": "5th",
+                    "ml_IN": "അഞജ്"
+                }
+            },
+            {
+                "class_id": 9,
+                "label": {
+                    "en_IN": "6th",
+                    "ml_IN": "ആറ്"
+                }
+            },
+            {
+                "class_id": 10,
+                "label": {
+                    "en_IN": "7th",
+                    "ml_IN": "ഏഴ്"
+                }
+            },
+            {
+                "class_id": 11,
+                "label": {
+                    "en_IN": "8th",
+                    "ml_IN": "എട്ട്"
+                }
+            },
+            {
+                "class_id": 12,
+                "label": {
+                    "en_IN": "9th",
+                    "ml_IN": "ഒൻപത്"
+                }
+            },
+            {
+                "class_id": 13,
+                "label": {
+                    "en_IN": "10th",
+                    "ml_IN": "പത്തു"
+                }
+            },
+            {
+                "class_id": 14,
+                "label": {
+                    "en_IN": "11th",
+                    "ml_IN": "പതിനൊന്ന്"
+                }
+            },
+            {
+                "class_id": 15,
+                "label": {
+                    "en_IN": "12th",
+                    "ml_IN": "പന്ത്രണ്ട്"
+                }
+            }
+        ]
+    },
+    "LSGI-types": {
+        "options": [
+            {
+                "organization_type_id": 3,
+                "label": {
+                    "en_IN": "Corporation",
+                    "ml_IN": "കോർപ്പറേഷൻ"
+                }
+            },
+            {
+                "organization_type_id": 4,
+                "label": {
+                    "en_IN": "Municipality",
+                    "ml_IN": "മുനിസിപ്പാലിറ്റി"
+                }
+            },
+            {
+                "organization_type_id": 5,
+                "label": {
+                    "en_IN": "Panchayath",
+                    "ml_IN": "പഞ്ചായത്ത്"
+                }
+            }
+        ]
+    }
+}
